@@ -41,3 +41,7 @@ for Users in range(amount):
      x.write(Users + '\n')
 print("\n")
 print('Plese check of Text-file could " # Users.txt "')
+Snapchat: xbce
+Snapchat: siid
+Snapchat: y3g
+Snapchat: m.pg
