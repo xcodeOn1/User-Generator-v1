@@ -33,6 +33,7 @@ for Users in range(amount):
          Users = ''
     for item in range(length2):
         Users += random.choice(allchars)
+Snapchat: gtoe 
 
 
 
